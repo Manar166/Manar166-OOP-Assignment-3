@@ -27,7 +27,7 @@ namespace Generics
         }
 
 
-        public List<Course> GetALlStudents() => _courses;
+        public List<Course> GetALl() => _courses;
 
 
         public void Remove(int id)

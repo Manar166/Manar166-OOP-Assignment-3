@@ -6,33 +6,33 @@ namespace Generics
 {
     public class GenericStore<T> where T : class, IHasId
     {
-        List<T> _repo;
+        Dictionary<int,T> _repo;
 
-        public GenericStore(List<T> repo)
+        public GenericStore(Dictionary<int, T> repo)
         {
             _repo = repo;
         }
 
         public void Add(T item)
         {
+            if (_repo.ContainsKey(item.Id))
+            {
+                throw new InvalidOperationException($"An item with Id '{item.Id}' already exists.");
+            }
             if (item is not null)
             {
-                _repo.Add(item);
+                _repo.TryAdd(item.Id,item);
             }
         }
 
         public T GetById(int id)
         {
-            foreach (var item in _repo)
-            {
-                if (item.Id == id)
-                    return item;
-            }
-            return null;
+            _repo.TryGetValue(id, out T value);
+            return value;
         }
 
 
-        public List<T> GetALlStudents() => _repo;
+        public IReadOnlyDictionary<int, T> GetAll() => _repo;
 
 
         public void Remove(int id)
@@ -40,7 +40,7 @@ namespace Generics
             var item = GetById(id);
             if (item != null)
             {
-                _repo.Remove(item);
+                _repo.Remove(id);
             }
 
 
