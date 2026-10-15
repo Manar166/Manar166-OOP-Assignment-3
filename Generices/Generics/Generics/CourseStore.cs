@@ -8,12 +8,15 @@ namespace Generics
     {
         List<Course> _courses = new List<Course>();
 
+        
         public void Add(Course course)
         {
             if (course is not null)
             {
                 _courses.Add(course);
             }
+
+            
         }
 
         public Course GetById(int id)
