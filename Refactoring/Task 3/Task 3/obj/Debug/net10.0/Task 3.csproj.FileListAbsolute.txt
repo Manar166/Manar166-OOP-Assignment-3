@@ -1,0 +1,16 @@
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\obj\Debug\net10.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\obj\Debug\net10.0\Task 3.AssemblyInfoInputs.cache
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\obj\Debug\net10.0\Task 3.AssemblyInfo.cs
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\obj\Debug\net10.0\Task 3.csproj.CoreCompileInputs.cache
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\obj\Debug\net10.0\Task 3.sourcelink.json
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\bin\Debug\net10.0\Task 3.exe
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\bin\Debug\net10.0\Task 3.deps.json
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\bin\Debug\net10.0\Task 3.runtimeconfig.json
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\bin\Debug\net10.0\Task 3.dll
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\bin\Debug\net10.0\Task 3.pdb
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\obj\Debug\net10.0\Task 3.dll
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\obj\Debug\net10.0\refint\Task 3.dll
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\obj\Debug\net10.0\Task 3.pdb
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\obj\Debug\net10.0\Task 3.genruntimeconfig.cache
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\obj\Debug\net10.0\ref\Task 3.dll
+D:\Simulation\OOP\Assignment 3\Manar166-OOP-Assignment-3\Refactoring\Part-01\Task 3\Task 3\obj\Debug\net10.0\Task 3.csproj.Up2Date

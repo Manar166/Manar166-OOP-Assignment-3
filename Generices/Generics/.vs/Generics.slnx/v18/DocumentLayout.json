@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Generices\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{087A03CF-9972-4634-9DA5-DE55E8D15935}|Generics\\Generics.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\generices\\generics\\generics\\studentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087A03CF-9972-4634-9DA5-DE55E8D15935}|Generics\\Generics.csproj|solutionrelative:generics\\studentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087A03CF-9972-4634-9DA5-DE55E8D15935}|Generics\\Generics.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\generices\\generics\\generics\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087A03CF-9972-4634-9DA5-DE55E8D15935}|Generics\\Generics.csproj|solutionrelative:generics\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087A03CF-9972-4634-9DA5-DE55E8D15935}|Generics\\Generics.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\generices\\generics\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087A03CF-9972-4634-9DA5-DE55E8D15935}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentStore.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Generices\\Generics\\Generics\\StudentStore.cs",
+              "RelativeDocumentMoniker": "Generics\\StudentStore.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Generices\\Generics\\Generics\\StudentStore.cs",
+              "RelativeToolTip": "Generics\\StudentStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:07:03.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Generices\\Generics\\Generics\\Student.cs",
+              "RelativeDocumentMoniker": "Generics\\Student.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Generices\\Generics\\Generics\\Student.cs",
+              "RelativeToolTip": "Generics\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:06:13.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Generices\\Generics\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Generices\\Generics\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:05:38.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
