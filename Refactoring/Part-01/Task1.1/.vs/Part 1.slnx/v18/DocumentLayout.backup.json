@@ -1,0 +1,467 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{385567DE-DF0F-4E85-8EDA-DCD36A747C1C}|..\\..\\Task 2\\Task 2.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385567DE-DF0F-4E85-8EDA-DCD36A747C1C}|..\\..\\Task 2\\Task 2.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\task 2\\reports\\textreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385567DE-DF0F-4E85-8EDA-DCD36A747C1C}|..\\..\\Task 2\\Task 2.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\task 2\\reports\\jsonreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385567DE-DF0F-4E85-8EDA-DCD36A747C1C}|..\\..\\Task 2\\Task 2.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\task 2\\reports\\csvreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385567DE-DF0F-4E85-8EDA-DCD36A747C1C}|..\\..\\Task 2\\Task 2.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\task 2\\reports\\reportexporterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\notification\\urgentscheduledemailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\notification\\urgentscheduledemailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385567DE-DF0F-4E85-8EDA-DCD36A747C1C}|..\\..\\Task 2\\Task 2.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\task 2\\enrollment\\courseenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385567DE-DF0F-4E85-8EDA-DCD36A747C1C}|..\\..\\Task 2\\Task 2.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\task 2\\enrollment\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\notification\\urgentsmsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\notification\\urgentsmsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.1.csproj|solutionrelative:task1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\notification\\urgentscheduledsmsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\notification\\urgentscheduledsmsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\notification\\iscadualednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\notification\\iscadualednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\notification\\urgentemailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\notification\\urgentemailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\notification\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\notification\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\notification\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\notification\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\notification\\inotefication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\notification\\inotefication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\orderprocessor\\orderprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\orderprocessor\\orderprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\orderprocessor\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\orderprocessor\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\orderprocessor\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\orderprocessor\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\orderprocessor\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\orderprocessor\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\orderprocessor\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\orderprocessor\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\shippingcalculator\\dhlshippingclaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\shippingcalculator\\dhlshippingclaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\shippingcalculator\\fedexshippingclaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\shippingcalculator\\fedexshippingclaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\shippingcalculator\\aramexshippingclaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\shippingcalculator\\aramexshippingclaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|d:\\simulation\\oop\\assignment 3\\manar166-oop-assignment-3\\refactoring\\part-01\\task1.1\\task1.1\\shippingcalculator\\ishippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0CF00-BA10-4C64-A254-D204F01DF8D3}|Task1.1\\Task1.csproj|solutionrelative:task1.1\\shippingcalculator\\ishippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextReportExporter.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Reports\\TextReportExporter.cs",
+              "RelativeDocumentMoniker": "..\\..\\Task 2\\Reports\\TextReportExporter.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Reports\\TextReportExporter.cs",
+              "RelativeToolTip": "..\\..\\Task 2\\Reports\\TextReportExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:55:35.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonReportExporter.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Reports\\JsonReportExporter.cs",
+              "RelativeDocumentMoniker": "..\\..\\Task 2\\Reports\\JsonReportExporter.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Reports\\JsonReportExporter.cs*",
+              "RelativeToolTip": "..\\..\\Task 2\\Reports\\JsonReportExporter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:54:24.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvReportExporter.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Reports\\CsvReportExporter.cs",
+              "RelativeDocumentMoniker": "..\\..\\Task 2\\Reports\\CsvReportExporter.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Reports\\CsvReportExporter.cs*",
+              "RelativeToolTip": "..\\..\\Task 2\\Reports\\CsvReportExporter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:52:33.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportExporterBase.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Reports\\ReportExporterBase.cs",
+              "RelativeDocumentMoniker": "..\\..\\Task 2\\Reports\\ReportExporterBase.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Reports\\ReportExporterBase.cs*",
+              "RelativeToolTip": "..\\..\\Task 2\\Reports\\ReportExporterBase.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:46:42.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Enrollment\\Services.cs",
+              "RelativeDocumentMoniker": "..\\..\\Task 2\\Enrollment\\Services.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Enrollment\\Services.cs",
+              "RelativeToolTip": "..\\..\\Task 2\\Enrollment\\Services.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:21:49.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Task 2\\Program.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Program.cs*",
+              "RelativeToolTip": "..\\..\\Task 2\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:20:46.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseEnrollment.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Enrollment\\CourseEnrollment.cs",
+              "RelativeDocumentMoniker": "..\\..\\Task 2\\Enrollment\\CourseEnrollment.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Task 2\\Enrollment\\CourseEnrollment.cs",
+              "RelativeToolTip": "..\\..\\Task 2\\Enrollment\\CourseEnrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:22:39.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UrgentScheduledSmsNotification.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\UrgentScheduledSmsNotification.cs",
+              "RelativeDocumentMoniker": "Task1.1\\Notification\\UrgentScheduledSmsNotification.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\UrgentScheduledSmsNotification.cs",
+              "RelativeToolTip": "Task1.1\\Notification\\UrgentScheduledSmsNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:39:36.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrgentScheduledEmailNotification.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\UrgentScheduledEmailNotification.cs",
+              "RelativeDocumentMoniker": "Task1.1\\Notification\\UrgentScheduledEmailNotification.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\UrgentScheduledEmailNotification.cs",
+              "RelativeToolTip": "Task1.1\\Notification\\UrgentScheduledEmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:36:23.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UrgentSmsNotification.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\UrgentSmsNotification.cs",
+              "RelativeDocumentMoniker": "Task1.1\\Notification\\UrgentSmsNotification.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\UrgentSmsNotification.cs",
+              "RelativeToolTip": "Task1.1\\Notification\\UrgentSmsNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:33:02.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IScadualedNotification.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\IScadualedNotification.cs",
+              "RelativeDocumentMoniker": "Task1.1\\Notification\\IScadualedNotification.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\IScadualedNotification.cs",
+              "RelativeToolTip": "Task1.1\\Notification\\IScadualedNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:26:45.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1.1\\Program.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Program.cs",
+              "RelativeToolTip": "Task1.1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:58:32.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task1.csproj",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Task1.csproj",
+              "RelativeDocumentMoniker": "Task1.1\\Task1.csproj",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Task1.csproj",
+              "RelativeToolTip": "Task1.1\\Task1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T17:01:32.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "Task1.1\\Notification\\EmailNotification.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\EmailNotification.cs",
+              "RelativeToolTip": "Task1.1\\Notification\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:24:57.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SmsNotification.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\SmsNotification.cs",
+              "RelativeDocumentMoniker": "Task1.1\\Notification\\SmsNotification.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\SmsNotification.cs",
+              "RelativeToolTip": "Task1.1\\Notification\\SmsNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:24:57.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UrgentEmailNotification.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\UrgentEmailNotification.cs",
+              "RelativeDocumentMoniker": "Task1.1\\Notification\\UrgentEmailNotification.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\UrgentEmailNotification.cs",
+              "RelativeToolTip": "Task1.1\\Notification\\UrgentEmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:24:56.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "INotefication.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\INotefication.cs",
+              "RelativeDocumentMoniker": "Task1.1\\Notification\\INotefication.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\Notification\\INotefication.cs",
+              "RelativeToolTip": "Task1.1\\Notification\\INotefication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:24:56.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderProcess.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\OrderProcessor\\OrderProcess.cs",
+              "RelativeDocumentMoniker": "Task1.1\\OrderProcessor\\OrderProcess.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\OrderProcessor\\OrderProcess.cs",
+              "RelativeToolTip": "Task1.1\\OrderProcessor\\OrderProcess.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:12:51.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SmtpEmailSender.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\OrderProcessor\\SmtpEmailSender.cs",
+              "RelativeDocumentMoniker": "Task1.1\\OrderProcessor\\SmtpEmailSender.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\OrderProcessor\\SmtpEmailSender.cs",
+              "RelativeToolTip": "Task1.1\\OrderProcessor\\SmtpEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:10:57.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SqlOrderRepository.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\OrderProcessor\\SqlOrderRepository.cs",
+              "RelativeDocumentMoniker": "Task1.1\\OrderProcessor\\SqlOrderRepository.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\OrderProcessor\\SqlOrderRepository.cs",
+              "RelativeToolTip": "Task1.1\\OrderProcessor\\SqlOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:09:57.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\OrderProcessor\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Task1.1\\OrderProcessor\\IEmailService.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\OrderProcessor\\IEmailService.cs",
+              "RelativeToolTip": "Task1.1\\OrderProcessor\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:09:18.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\OrderProcessor\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Task1.1\\OrderProcessor\\IOrderRepository.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\OrderProcessor\\IOrderRepository.cs",
+              "RelativeToolTip": "Task1.1\\OrderProcessor\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:08:35.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DHLShippingClaculator.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\ShippingCalculator\\DHLShippingClaculator.cs",
+              "RelativeDocumentMoniker": "Task1.1\\ShippingCalculator\\DHLShippingClaculator.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\ShippingCalculator\\DHLShippingClaculator.cs",
+              "RelativeToolTip": "Task1.1\\ShippingCalculator\\DHLShippingClaculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:04:53.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FedExShippingClaculator.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\ShippingCalculator\\FedExShippingClaculator.cs",
+              "RelativeDocumentMoniker": "Task1.1\\ShippingCalculator\\FedExShippingClaculator.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\ShippingCalculator\\FedExShippingClaculator.cs",
+              "RelativeToolTip": "Task1.1\\ShippingCalculator\\FedExShippingClaculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:04:53.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AramexShippingClaculator.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\ShippingCalculator\\AramexShippingClaculator.cs",
+              "RelativeDocumentMoniker": "Task1.1\\ShippingCalculator\\AramexShippingClaculator.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\ShippingCalculator\\AramexShippingClaculator.cs",
+              "RelativeToolTip": "Task1.1\\ShippingCalculator\\AramexShippingClaculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:04:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IShippingStrategy.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\ShippingCalculator\\IShippingStrategy.cs",
+              "RelativeDocumentMoniker": "Task1.1\\ShippingCalculator\\IShippingStrategy.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 3\\Manar166-OOP-Assignment-3\\Refactoring\\Part-01\\Task1.1\\Task1.1\\ShippingCalculator\\IShippingStrategy.cs",
+              "RelativeToolTip": "Task1.1\\ShippingCalculator\\IShippingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:04:52.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
