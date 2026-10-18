@@ -6,12 +6,9 @@ namespace Generics
 {
     public class GenericStore<T> where T : class, IHasId
     {
-        Dictionary<int,T> _repo;
+        Dictionary<int,T> _repo= new Dictionary<int, T>();
 
-        public GenericStore(Dictionary<int, T> repo)
-        {
-            _repo = repo;
-        }
+    
 
         public void Add(T item)
         {
